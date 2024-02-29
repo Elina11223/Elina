@@ -1,2 +1,0 @@
-# Elina
-repository
